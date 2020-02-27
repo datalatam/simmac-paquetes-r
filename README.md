@@ -53,7 +53,7 @@ lo mejor es que los instales de antemano. Con las siguientes
 instrucciones los puedes instalar
     todos:
 
-    install.packages(c("devtools", "usethis", "testthat", "roxygen", "tidyverse")) 
+    install.packages(c("devtools", "usethis", "testthat", "roxygen2", "tidyverse")) 
 
 Si eres usuario de windows, es necesario como primer paso instalar
 [Rtools](https://cran.r-project.org/bin/windows/Rtools/)
